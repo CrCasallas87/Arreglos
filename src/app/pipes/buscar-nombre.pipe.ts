@@ -20,7 +20,7 @@ export class BuscarNombrePipe implements PipeTransform {
   // otro comentario de prueba
   // este si puede ser el cambio de la  prueba final
   // este comentario se hizo en master
-
+  //realisando cambios diseñador2
 
 // comenteario hecho en disaeñador 1
 }
