@@ -15,5 +15,6 @@ export class BuscarNombrePipe implements PipeTransform {
     }
     return nombreP;
   }
+  // esta parte no funcionsa
 
 }
