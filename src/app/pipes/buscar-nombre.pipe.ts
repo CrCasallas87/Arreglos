@@ -22,4 +22,5 @@ export class BuscarNombrePipe implements PipeTransform {
   // este comentario se hizo en master
 
 
+// comenteario hecho en disaeñador 1
 }
