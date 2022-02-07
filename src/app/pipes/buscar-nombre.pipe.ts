@@ -17,5 +17,5 @@ export class BuscarNombrePipe implements PipeTransform {
   }
   // esta parte no funcionsa esta parte sigue sin funcionar
   // otra pocion de sin cambion comentario
-
+// comenteario hecho en disaeñador 1
 }
